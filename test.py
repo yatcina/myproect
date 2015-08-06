@@ -9,3 +9,4 @@ xnew = np.linspace(0, 10, num=50, endpoint=True)
 plt.plot(x, y, 'o', xnew, f(xnew), '-', xnew, f2(xnew), '--')
 plt.legend(['data', 'linear', 'cubic'], loc='best')
 plt.show()
+#asaasasas
